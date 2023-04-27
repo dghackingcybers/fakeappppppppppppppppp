@@ -1,7 +1,7 @@
 # Fake-AP v1.0
-## Author: github.com/thelinuxchoice
-## Downloaded from: github.com/thelinuxchoice/fakeap
-## IG: instagram.com/thelinuxchoice
+## Author: github.com/dghackingcybers
+## Downloaded from: https://github.com/dghackingcybers/fakeappppppppppppppppp/
+## IG: instagram.com/dghackingcybers
 ### Don't copy this code without give me the credits, nerd! 
 
 ![fa](https://user-images.githubusercontent.com/34893261/43369380-95333cee-9343-11e8-920a-51ac5ce645f4.png)
@@ -15,13 +15,8 @@ Usage of FakeAP for attacking targets without prior mutual consent is illegal. I
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/fakeap
+git clone https://github.com/dghackingcybers/fakeappppppppppppppppp/
 cd fakeap
 bash fakeap.sh
 ```
-
-### Donate!
-Support the authors:
-
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
